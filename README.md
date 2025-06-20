@@ -3,7 +3,7 @@ This is mainly program in!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Dot-Com&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 Here's my commit streak! 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fahim-Dot-Com&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fahim-Dot-Com&theme=dark)
 
 **Fahim-Dot-Com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub my profile for all of you too see!
 
