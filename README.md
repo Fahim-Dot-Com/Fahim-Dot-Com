@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is mainly program in!
+This is what i mainly program in!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Dot-Com&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 Here's my commit streak! 
