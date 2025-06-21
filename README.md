@@ -5,9 +5,8 @@ This is what i mainly program in!
 Here's my commit streak! 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fahim-Dot-Com&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?Fahim-Dot-Com=Fahim-Dot-Com)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fahim-Dot-Com&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 
 
