@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there Visitor! 👋
+👁️ Visitor Count below!
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Fahim-Dot-Com.Fahim-Dot-Com)
 
 Here's my streak!
 
