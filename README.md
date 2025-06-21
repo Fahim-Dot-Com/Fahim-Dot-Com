@@ -15,6 +15,8 @@ This is what i mainly program in!
 - ![JavaScript](https://img.shields.io/badge/JavaScript-16%25-yellow)
 - ![HTML](https://img.shields.io/badge/HTML-12%25-orange)
 - ![CSS](https://img.shields.io/badge/CSS-7%25-purple)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 
 
