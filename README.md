@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with anyone who can guide me!
 - 🤔 I’m looking for help with Improved_Calculator and to make it a scientific 
 - 💬 Ask me about anything like my goals and dreams or anything really!
-- 📫 How to reach me: fahimakhtar928@gmail.com 
+- 📫 How to reach me: fahimakhtar928@gmail.com
+- https://www.linkedin.com/in/fahim-akhtar-6254402b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: A fun fact about me is that I'm fluent in 4 languages 🇬🇧 English/ 🇧🇩 Bengali / 🇷🇴 Romanian / 🇸🇦 Arabic!
