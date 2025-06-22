@@ -23,7 +23,7 @@ This is what i mainly program in!
 
 **Fahim-Dot-Com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub my profile for all of you too see!
 
-## 💪 Heres my stat card hope you liek it!
+## 💪 Heres my stat card hope you like it!
 
 ![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahim-Dot-Com&show_icons=true&theme=tokyonight&hide_title=false&hide=issues&rank_icon=percentile&custom_title=Fahim-Dot-Com%20GitHub%20Stats)
 
