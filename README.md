@@ -33,7 +33,8 @@ This is what i mainly program in!
 - 🤖 [Mini_ChatBot](https://github.com/Fahim-Dot-Com/MyBotProject): An experimental chatbot built with Python + logic flows.
 - 🧪 [React_Tester](https://github.com/Fahim-Dot-Com/HelloWorldToReact): My first React-based frontend attempt, learning state and JSX.
 
-Here are some ideas to get you started:
+## 🧠🗂️ Fahim's MegaReadme for all of my projects!
+(https://github.com/Fahim-Dot-Com/MyMegaReadMe):
 
 - 🔭 I’m currently working on making a improved ChatBot
 - 🌱 I’m currently learning C#,SQL and React!
