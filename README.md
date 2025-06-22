@@ -27,6 +27,11 @@ This is what i mainly program in!
 
 ![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahim-Dot-Com&show_icons=true&theme=tokyonight&hide_title=false&hide=issues&rank_icon=percentile&custom_title=Fahim-Dot-Com%20GitHub%20Stats)
 
+## 📌 Pinned Projects
+
+- 🔢 [Improved_Calculator](https://github.com/Fahim-Dot-Com/Improved_Calculator): A WIP calculator app I'm expanding into scientific mode!
+- 🤖 [Mini_ChatBot](https://github.com/Fahim-Dot-Com/MyBotProject): An experimental chatbot built with Python + logic flows.
+- 🧪 [React_Tester](https://github.com/Fahim-Dot-Com/HelloWorldToReact): My first React-based frontend attempt, learning state and JSX.
 
 Here are some ideas to get you started:
 
