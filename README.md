@@ -13,7 +13,7 @@ This is what i mainly program in!
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fahim-Dot-Com&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🧠 What I Mostly Code In:
-- ![Python](https://img.shields.io/badge/Python-63%25-blue)
+- ![Python](https://img.shields.io/badge/Python-57%25-blue)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-16%25-yellow)
 - ![HTML](https://img.shields.io/badge/HTML-12%25-orange)
 - ![CSS](https://img.shields.io/badge/CSS-7%25-purple)
