@@ -4,7 +4,8 @@
 
 Here's my streak!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fahim-Dot-Com&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fahim-Dot-Com&theme=dark
+
 
 This is what i mainly program in!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Dot-Com&layout=pie&langs_count=6&theme=tokyonight&v=3)](https://github.com/anuraghazra/github-readme-stats)
