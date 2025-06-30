@@ -38,17 +38,14 @@ This is what i mainly program in!
 (https://github.com/Fahim-Dot-Com/MyMegaReadMe):
 
 | 🏅 Certificate                    | 🧠 Platform | 🧩 Skills Covered                                  |
-| --------------------------------- | ----------- | -------------------------------------------------- |![Screenshot_20250630_163657_File Viewer](https://github.com/user-attachments/assets/28b3773f-cd91-4d1e-8597-bc38f25ae27e)
-| **SQL Fundamentals**      ![Screenshot_20250630_163657_File Viewer](https://github.com/user-attachments/assets/28b3773f-cd91-4d1e-8597-bc38f25ae27e)        | Mimo        | SELECT, WHERE, JOIN, GROUP BY, aggregate  ![Screenshot_20250630_163657_File Viewer](https://github.com/user-attachments/assets/28b3773f-cd91-4d1e-8597-bc38f25ae27e)
- functions |
-| **Python Programming**            | Mimo        | Variables, loops, functions, OOP, logic   
-         |
-| **HTML & CSS**
-
- | Mimo        | Page structure, styling, forms,       responsive layouts |
+| --------------------------------- | ----------- | -------------------------------------------------- |
+| **SQL Fundamentals**              | Mimo        | SELECT, WHERE, JOIN, GROUP BY, aggregate functions |
+| **Python Programming**            | Mimo        | Variables, loops, functions, OOP, logic            |
+| **HTML & CSS**                    | Mimo        | Page structure, styling, forms, responsive layouts |
 | **JavaScript Basics**             | Mimo        | DOM manipulation, conditionals, functions          |
 | **Python AI Development** *(WIP)* | Mimo        | Intro to AI, logic trees, simulated intelligence   |
 | **TypeScript Fundamentals**       | Mimo        | Static typing, interfaces, object structures       |
+
 
 
 
