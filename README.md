@@ -46,7 +46,7 @@ This is what i mainly program in!
 | **Python AI Development** *(WIP)* | Mimo        | Intro to AI, logic trees, simulated intelligence   |
 | **TypeScript Fundamentals**       | Mimo        | Static typing, interfaces, object structures       |
 
-- 🏆 Here are the links to my certificates!
+## 🏆 Here are the links to my certificates!
 (https://github.com/Fahim-Dot-Com/Fahim-Dot-Com/tree/main/Certificates-folder-holder)
 
 
