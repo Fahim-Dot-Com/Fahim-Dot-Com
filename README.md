@@ -46,7 +46,7 @@ This is what i mainly program in!
 | **Python AI Development** *(WIP)* | Mimo        | Intro to AI, logic trees, simulated intelligence   |
 | **TypeScript Fundamentals**       | Mimo        | Static typing, interfaces, object structures       |
 
-
+(https://github.com/Fahim-Dot-Com/Fahim-Dot-Com/tree/main/Certificates-folder-holder)
 
 
 - 🔭 I’m currently working on making a improved ChatBot
