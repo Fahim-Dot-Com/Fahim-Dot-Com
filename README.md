@@ -39,9 +39,13 @@ This is what i mainly program in!
 
 | 🏅 Certificate                    | 🧠 Platform | 🧩 Skills Covered                                  |
 | --------------------------------- | ----------- | -------------------------------------------------- |
-| **SQL Fundamentals**              | Mimo        | SELECT, WHERE, JOIN, GROUP BY, aggregate functions |
-| **Python Programming**            | Mimo        | Variables, loops, functions, OOP, logic            |
-| **HTML & CSS**                    | Mimo        | Page structure, styling, forms, responsive layouts |
+| **SQL Fundamentals**              | Mimo        | SELECT, WHERE, JOIN, GROUP BY, aggregate  ![Screenshot_20250630_163657_File Viewer](https://github.com/user-attachments/assets/28b3773f-cd91-4d1e-8597-bc38f25ae27e)
+ functions |
+| **Python Programming**            | Mimo        | Variables, loops, functions, OOP, logic   ![Screenshot_20250630_163840_File Viewer](https://github.com/user-attachments/assets/4768c809-eccf-4c18-818e-89bedc5c3c7f)
+         |
+| **HTML & CSS**
+![Screenshot_20250630_164123_Mimo](https://github.com/user-attachments/assets/63ed4a56-733b-4cac-b318-f0eb29b05f27)
+ | Mimo        | Page structure, styling, forms,       responsive layouts |
 | **JavaScript Basics**             | Mimo        | DOM manipulation, conditionals, functions          |
 | **Python AI Development** *(WIP)* | Mimo        | Intro to AI, logic trees, simulated intelligence   |
 | **TypeScript Fundamentals**       | Mimo        | Static typing, interfaces, object structures       |
