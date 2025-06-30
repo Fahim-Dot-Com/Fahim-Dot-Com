@@ -37,6 +37,8 @@ This is what i mainly program in!
 ## 🧠🗂️ Fahim's MegaReadme for all of my projects!
 (https://github.com/Fahim-Dot-Com/MyMegaReadMe):
 
+## 🏅 My certificates wall
+
 | 🏅 Certificate                    | 🧠 Platform | 🧩 Skills Covered                                  |
 | --------------------------------- | ----------- | -------------------------------------------------- |
 | **SQL Fundamentals**              | Mimo        | SELECT, WHERE, JOIN, GROUP BY, aggregate functions |
