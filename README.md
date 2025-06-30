@@ -37,6 +37,17 @@ This is what i mainly program in!
 ## 🧠🗂️ Fahim's MegaReadme for all of my projects!
 (https://github.com/Fahim-Dot-Com/MyMegaReadMe):
 
+| 🏅 Certificate                    | 🧠 Platform | 🧩 Skills Covered                                  |
+| --------------------------------- | ----------- | -------------------------------------------------- |
+| **SQL Fundamentals**              | Mimo        | SELECT, WHERE, JOIN, GROUP BY, aggregate functions |
+| **Python Programming**            | Mimo        | Variables, loops, functions, OOP, logic            |
+| **HTML & CSS**                    | Mimo        | Page structure, styling, forms, responsive layouts |
+| **JavaScript Basics**             | Mimo        | DOM manipulation, conditionals, functions          |
+| **Python AI Development** *(WIP)* | Mimo        | Intro to AI, logic trees, simulated intelligence   |
+| **TypeScript Fundamentals**       | Mimo        | Static typing, interfaces, object structures       |
+
+
+
 - 🔭 I’m currently working on making a improved ChatBot
 - 🌱 I’m currently learning C#,SQL and React!
 - 👯 I’m looking to collaborate with anyone who can guide me!
